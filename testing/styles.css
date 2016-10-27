@@ -1,0 +1,19 @@
+
+body {
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+}
+
+#leftSide {
+	position: fixed;
+	width: 20vw;
+	height: 100vh;
+}
+
+#center {
+	position: fixed;
+	width: 10vw;
+	height: 100vh;
+	margin-left: 20vw;
+}
